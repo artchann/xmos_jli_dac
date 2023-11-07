@@ -1,5 +1,3 @@
 # xmos_jli_dac
 
-Holds files for jli_xmoss dac
-
-app_xmos_usb_audio current in development
+Holds file structure for XMOS based JLI Digital to Analogue converter. Platform is currently based on XMOS software with only base functionality to connect hardware interface to software component.
